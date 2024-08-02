@@ -1,0 +1,1 @@
+About node js:Web Servers: Node. js is ideal for building fast and scalable web servers that handle numerous simultaneous connections with high throughput. 
